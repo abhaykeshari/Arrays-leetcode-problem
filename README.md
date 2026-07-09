@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
