@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
