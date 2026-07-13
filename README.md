@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
