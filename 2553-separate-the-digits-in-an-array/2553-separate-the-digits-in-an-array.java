@@ -4,8 +4,9 @@ class Solution {
         for(int num : nums){
             List <Integer> temp = new ArrayList<>();
             while(num>0){
-                temp.add(num%10);
+                int d =(num%10);
                 num/=10;
+                temp.add(d);
             }
             for(int i = temp.size()-1;i>=0; i--){
                 ans.add(temp.get(i));
