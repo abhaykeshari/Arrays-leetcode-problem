@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
 ## Game Theory
 |  |
 | ------- |
