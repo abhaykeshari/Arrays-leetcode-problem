@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
