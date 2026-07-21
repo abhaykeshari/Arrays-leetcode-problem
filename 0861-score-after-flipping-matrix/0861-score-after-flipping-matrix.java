@@ -22,13 +22,11 @@ class Solution {
         }
         int sum = 0 ;
         for(int i = 0 ; i < grid.length ; i++){
-            int x =0;
-            for(int j = 0 ; j < grid[i].length   ;j++){
-                
-                    x = x *2+ grid[i][j];
-                
+            int x =1;
+            for(int j = grid[i].length-1 ; j >=0 ;j--){
+                sum += grid[i][j] *x;
+                x*=2;
             }
-                sum+=x;
         }
         return sum;
     }
