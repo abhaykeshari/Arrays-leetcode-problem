@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
