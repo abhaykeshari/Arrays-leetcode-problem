@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1470-shuffle-the-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
+| [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 ## Game Theory
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0059-spiral-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
