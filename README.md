@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
 | [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Game Theory
 |  |
 | ------- |
